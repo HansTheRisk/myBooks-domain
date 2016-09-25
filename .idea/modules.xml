@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../myBooks-app/myBooks-app.iml" filepath="$PROJECT_DIR$/../myBooks-app/myBooks-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybooks-domain.iml" filepath="$PROJECT_DIR$/mybooks-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mybooks-mongo/mybooks-mongo.iml" filepath="$PROJECT_DIR$/../mybooks-mongo/mybooks-mongo.iml" />
+    </modules>
+  </component>
+</project>

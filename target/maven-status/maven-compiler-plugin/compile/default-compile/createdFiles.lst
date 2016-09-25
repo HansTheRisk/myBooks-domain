@@ -1,0 +1,5 @@
+domain/user/User.class
+domain/book/Book.class
+domain/isbn/ISBN.class
+exception/isbn/ISBNException.class
+repository/BookRepository.class

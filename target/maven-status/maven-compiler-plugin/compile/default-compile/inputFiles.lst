@@ -1,0 +1,5 @@
+/home/Projects/mybooks-domain/src/main/java/domain/isbn/ISBN.java
+/home/Projects/mybooks-domain/src/main/java/domain/user/User.java
+/home/Projects/mybooks-domain/src/main/java/domain/book/Book.java
+/home/Projects/mybooks-domain/src/main/java/repository/BookRepository.java
+/home/Projects/mybooks-domain/src/main/java/exception/isbn/ISBNException.java

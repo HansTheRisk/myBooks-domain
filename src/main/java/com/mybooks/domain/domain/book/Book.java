@@ -1,7 +1,7 @@
-package domain.book;
+package com.mybooks.domain.domain.book;
 
-import mongo.document.universallyIdentifiable.UniversallyIdentifiableDocument;
-import domain.isbn.ISBN;
+import com.mybooks.domain.domain.isbn.ISBN;
+import com.mybooks.mongo.document.universallyIdentifiable.UniversallyIdentifiableDocument;
 import org.springframework.data.mongodb.core.mapping.Document;
 import org.springframework.data.mongodb.core.mapping.Field;
 
@@ -99,7 +99,7 @@ public class Book extends UniversallyIdentifiableDocument
                 ", author='" + author + '\'' +
                 ", year=" + year +
                 ", lang=" + lang +
-                ", exception.isbn=" + isbn +
+                ", domain.exception.isbn=" + isbn +
                 '}';
     }
 

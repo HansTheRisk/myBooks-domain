@@ -1,5 +1,5 @@
-/home/Projects/mybooks-domain/src/main/java/domain/isbn/ISBN.java
-/home/Projects/mybooks-domain/src/main/java/domain/user/User.java
-/home/Projects/mybooks-domain/src/main/java/domain/book/Book.java
-/home/Projects/mybooks-domain/src/main/java/repository/BookRepository.java
-/home/Projects/mybooks-domain/src/main/java/exception/isbn/ISBNException.java
+/home/Projects/myBooks-domain/src/main/java/com/mybooks/domain/repository/BookRepository.java
+/home/Projects/myBooks-domain/src/main/java/com/mybooks/domain/domain/isbn/ISBN.java
+/home/Projects/myBooks-domain/src/main/java/com/mybooks/domain/domain/user/User.java
+/home/Projects/myBooks-domain/src/main/java/com/mybooks/domain/domain/book/Book.java
+/home/Projects/myBooks-domain/src/main/java/com/mybooks/domain/exception/isbn/ISBNException.java

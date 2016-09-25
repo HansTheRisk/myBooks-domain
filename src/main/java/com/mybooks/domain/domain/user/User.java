@@ -1,6 +1,6 @@
-package domain.user;
+package com.mybooks.domain.domain.user;
 
-import mongo.document.universallyIdentifiable.UniversallyIdentifiableDocument;
+import com.mybooks.mongo.document.universallyIdentifiable.UniversallyIdentifiableDocument;
 import org.springframework.data.mongodb.core.mapping.Document;
 import org.springframework.data.mongodb.core.mapping.Field;
 

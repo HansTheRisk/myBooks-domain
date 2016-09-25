@@ -1,6 +1,6 @@
-package domain.isbn;
+package com.mybooks.domain.domain.isbn;
 
-import exception.isbn.ISBNException;
+import com.mybooks.domain.exception.isbn.ISBNException;
 import org.apache.commons.validator.routines.ISBNValidator;
 
 import java.util.Objects;

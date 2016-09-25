@@ -1,5 +1,5 @@
-domain/user/User.class
-domain/book/Book.class
-domain/isbn/ISBN.class
-exception/isbn/ISBNException.class
-repository/BookRepository.class
+com/mybooks/domain/repository/BookRepository.class
+com/mybooks/domain/exception/isbn/ISBNException.class
+com/mybooks/domain/domain/isbn/ISBN.class
+com/mybooks/domain/domain/user/User.class
+com/mybooks/domain/domain/book/Book.class

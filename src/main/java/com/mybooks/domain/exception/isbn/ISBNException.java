@@ -1,4 +1,4 @@
-package exception.isbn;
+package com.mybooks.domain.exception.isbn;
 
 public class ISBNException extends RuntimeException
 {
